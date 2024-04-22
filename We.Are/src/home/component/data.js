@@ -1,0 +1,5 @@
+
+export const p1 = "United Dental Group in Fremont has been providing quality, experienced dentistry with integrity since 1998. We take pride in providing the most honest and compassionate dental care available. Whether patients are new with us, or have been with them since day one, we will treat them with the utmost respect and patience. We are adept in providing treatments in all areas of dentistry, but if in those rare instances where the scope of treatment is beyond their expertise, we will be happy to involve a clinician with the necessary skills to ensure your best outcome.";
+
+
+export const p2 = "Our dentists treat one patient at a time, so your visit is never rushed. Your dentist will always take the time to explain treatments and answer your questions. Our hygienists are professional and experienced, providing the highest level of care and attention. We use state-of-the-art technology and infection control to ensure your comfort and safety. Our friendly staff will always make your feel welcome during your visit.";
